@@ -16,12 +16,11 @@
 - [ ] [Computer Organization and Design: The Hardware / Software Interface](https://www.ozon.ru/context/detail/id/22680307/) by David Patterson, John Hennessy
 - [ ] [Distributed Systems: Principles and Paradigms](https://www.ozon.ru/context/detail/id/3669235/)
 - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch)
-- [ ] [Вычисления на видеокартах](https://www.youtube.com/watch?v=2_vUxISp7ko&t=2260s&ab_channel=ComputerScienceCenter)
-https://github.com/GPGPUCourse
+- [ ] [Вычисления на видеокартах](https://www.youtube.com/watch?v=2_vUxISp7ko&t=2260s&ab_channel=ComputerScienceCenter) ([Github link](https://github.com/GPGPUCourse))
 
 
 ## Algorithms
-
+- [ ] [Грокаем алгоритмы](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-139296295/?sh=XfpvTwAAAA) by Адитья Бхаргава
 - [ ] [Introduction to Algorithms](https://www.ozon.ru/context/detail/id/33769775/) by Thomas Cormen, Charles Leiserson, Ronald Rivest and Clifford Stein
 - [ ] [The Algorithm Design Manual](https://www.ozon.ru/context/detail/id/1830000/) by Steven Skiena
 - [ ] [Analysis of Algorithms: An Active Learning Approach](https://www.ozon.ru/context/detail/id/4523340/) by Jeffrey McConnell
@@ -39,6 +38,7 @@ https://github.com/GPGPUCourse
 - [ ] [Сборник задач по теории вероятностей](https://www.ozon.ru/context/detail/id/4743257/) by Андрей Зубков, Борис Севастьянов, Владимир Чистяков
 
 ## AB
+- [ ] [Trustworthy Online Controlled Experiments (A Practical Guide to A/B Testing)](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264) by Ron Kohavi
 
 
 ## Discrete mathematics
